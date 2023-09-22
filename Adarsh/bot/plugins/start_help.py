@@ -60,9 +60,9 @@ async def start(b, m):
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ ML SUPPORT ⚡", url="https://t.me/Max_Leech_Zone_Update")],
-                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER 💠", url="https://t.me/PROFE07XH")],
-                    [InlineKeyboardButton("💡 𝙼𝙰𝚇 𝙻𝙴𝙴𝙲𝙷 𝚉𝙾𝙽𝙴 💡", url="https://t.me/+oyzaM1d3D3g4NWZl")]
+                    [InlineKeyboardButton("⚡ Max Bypass Zone ⚡", url="https://t.me/Max_Bypass_V71"), InlineKeyboardButton("⚡ MAX SUPPORT ⚡", url="https://t.me/Max_Leech_Zone_Update")],
+                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 Movie Request Group 💠", url="https://t.me/+IXXBlPCAiww5NDU1")],
+                    [InlineKeyboardButton("💡 𝙼𝙰𝚇 𝙻𝙴𝙴𝙲𝙷 𝚉𝙾𝙽𝙴 💡", url="https://t.me/+I1Kl5CsMpvQ5NmE1")]
                 ]
             ),
             
@@ -86,7 +86,7 @@ async def start(b, m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                                InlineKeyboardButton("✅ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ✅", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                             ]                           
                         ]
                     )
@@ -157,7 +157,7 @@ async def help_handler(bot, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                            InlineKeyboardButton("🌻ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ🌻", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                         ]
                     ]
                 )
@@ -177,9 +177,9 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ ML SUPPORT ⚡", url="https://t.me/Max_Leech_Zone_Update")],
-                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER 💠", url="https://t.me/PROFE07XH")],
-                    [InlineKeyboardButton("💡 𝙼𝙰𝚇 𝙻𝙴𝙴𝙲𝙷 𝚉𝙾𝙽𝙴 💡", url="https://t.me/+oyzaM1d3D3g4NWZl")]
+                    [InlineKeyboardButton("⚡ MAX BYPASS ZONE ⚡", url="https://t.me/Max_Bypass_V71"), InlineKeyboardButton("⚡ ML SUPPORT ⚡", url="https://t.me/Max_Leech_Zone_Update")],
+                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 MOVIE REQUEST GRUOP 💠", url="https://t.me/+IXXBlPCAiww5NDU1")],
+                    [InlineKeyboardButton("💡 𝙼𝙰𝚇 𝙻𝙴𝙴𝙲𝙷 𝚉𝙾𝙽𝙴 💡", url="https://t.me/+I1Kl5CsMpvQ5NmE1")]
                 ]
             ),
             
@@ -211,7 +211,7 @@ async def about_handler(bot, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
+                            InlineKeyboardButton("⚡ᴊᴏɪɴ ᴍʏ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ⚡", url=f"https://t.me/{Var.UPDATES_CHANNEL}")
                         ]
                     ]
                 )
@@ -231,21 +231,21 @@ async def about_handler(bot, message):
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
 ┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/club_updates_97'>UPDATE-CHANNEL</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+oyzaM1d3D3g4NWZl'>PROLEECHGRUOP</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/Max_Leech_Zone_Update'>MAX CHANNEL</a></b>
+┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+I1Kl5CsMpvQ5NmE1'>MAX LEECH ZONE</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/Max_Leech_Zone_Update'>ML-SUPPORT</a></b>
+┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/+IXXBlPCAiww5NDU1'>MOVIE REQUEST ZONE</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/club_updates_97"), InlineKeyboardButton("⚡ ML SUPPORT ⚡", url="https://t.me/Max_Leech_Zone_Update")],
-                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 DEVELOPER 💠", url="https://t.me/PROFE07XH")],
-                    [InlineKeyboardButton("💡 𝙼𝙰𝚇 𝙻𝙴𝙴𝙲𝙷 𝚉𝙾𝙽𝙴 💡", url="https://t.me/+oyzaM1d3D3g4NWZl")]
+                    [InlineKeyboardButton("⚡ MAX BYPSSS ZONE ⚡", url="https://t.me/Max_Bypass_V71"), InlineKeyboardButton("⚡ ML SUPPORT ⚡", url="https://t.me/Max_Leech_Zone_Update")],
+                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 MOVIE REQUEST GRUOP 💠", url="https://t.me/+IXXBlPCAiww5NDU1")],
+                    [InlineKeyboardButton("💡 𝙼𝙰𝚇 𝙻𝙴𝙴𝙲𝙷 𝚉𝙾𝙽𝙴 💡", url="https://t.me/+I1Kl5CsMpvQ5NmE1")]
                 ]
             ),
             
