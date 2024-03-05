@@ -56,13 +56,13 @@ async def start(b, m):
                     disable_web_page_preview=True)
                 return
         await m.reply_photo(
-            photo="https://telegra.ph/file/dd9f512f20297ee827a9a.jpg",
+            photo="https://telegra.ph/file/dd9f512f20297ee827a9a.jpg https://graph.org/file/ac93e1bf6d0662f1dc1d3.jpg https://graph.org/file/e5098a73c0cf0b5e3a076.jpg https://graph.org/file/b0e5deb448b575f1be028.jpg",
             caption="**ʜᴇʟʟᴏ...⚡\n\nɪᴀᴍ ᴀ sɪᴍᴘʟᴇ ᴛᴇʟᴇɢʀᴀᴍ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛᴏ ᴘᴇʀᴍᴀɴᴇɴᴛ ʟɪɴᴋ ᴀɴᴅ sᴛʀᴇᴀᴍ ʟɪɴᴋ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.**\n\n**ᴜsᴇ /help ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛsɪʟs\n\nsᴇɴᴅ ᴍᴇ ᴀɴʏ ᴠɪᴅᴇᴏ / ғɪʟᴇ ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀᴢ...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ Max Bypass Zone ⚡", url="https://t.me/Max_Bypass_V71"), InlineKeyboardButton("⚡ MAX SUPPORT ⚡", url="https://t.me/Max_Leech_Zone_Update")],
-                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 Movie Request Group 💠", url="https://t.me/+IXXBlPCAiww5NDU1")],
-                    [InlineKeyboardButton("💡 𝙼𝙰𝚇 𝙻𝙴𝙴𝙲𝙷 𝚉𝙾𝙽𝙴 💡", url="https://t.me/+I1Kl5CsMpvQ5NmE1")]
+                    [InlineKeyboardButton("⚡ 𝐌𝐚𝐱-𝐁𝐲𝐩𝐚𝐬𝐬-𝐙𝐨𝐧𝐞 ⚡", url="https://t.me/Max_Bypass_V71"), InlineKeyboardButton("⚡ 𝐌𝐀𝐗-𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⚡", url="https://t.me/Max_Leech_Zone_Update")],
+                    [InlineKeyboardButton("💯 𝐎𝐖𝐍𝐄𝐑 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 𝐌𝐨𝐯𝐢𝐞-𝐑𝐞𝐪𝐮𝐞𝐬𝐭-𝐆𝐫𝐨𝐮𝐩 💠", url="https://t.me/+IXXBlPCAiww5NDU1")],
+                    [InlineKeyboardButton("💡 𝐌𝐚𝐱-𝐋𝐞𝐞𝐜𝐡-𝐙𝐨𝐧𝐞 💡", url="https://t.me/+I1Kl5CsMpvQ5NmE1")]
                 ]
             ),
             
@@ -171,15 +171,15 @@ async def help_handler(bot, message):
                 disable_web_page_preview=True)
             return
     await message.reply_photo(
-            photo="https://telegra.ph/file/dd9f512f20297ee827a9a.jpg",
+            photo="https://telegra.ph/file/dd9f512f20297ee827a9a.jpg https://graph.org/file/0fe62a592955269702054.jpg https://graph.org/file/fabc785540891bb83b7a8.jpg",
             caption="**┣⪼ sᴇɴᴅ ᴍᴇ ᴀɴʏ ғɪʟᴇ/ᴠɪᴅᴇᴏ ᴛʜᴇɴ ɪ ᴡɪʟʟ ʏᴏᴜ ᴘᴇʀᴍᴀɴᴇɴᴛ sʜᴀʀᴇᴀʙʟᴇ ʟɪɴᴋ ᴏғ ɪᴛ...\n\n┣⪼ ᴛʜɪs ʟɪɴᴋ ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ ᴏʀ ᴛᴏ sᴛʀᴇᴀᴍ ᴜsɪɴɢ ᴇxᴛᴇʀɴᴀʟ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀs ᴛʜʀᴏᴜɢʜ ᴍʏ sᴇʀᴠᴇʀs.\n\n┣⪼ ғᴏʀ sᴛʀᴇᴀᴍɪɴɢ ᴊᴜsᴛ ᴄᴏᴘʏ ᴛʜᴇ ʟɪɴᴋ ᴀɴᴅ ᴘᴀsᴛᴇ ɪᴛ ɪɴ ʏᴏᴜʀ ᴠɪᴅᴇᴏ ᴘʟᴀʏᴇʀ ᴛᴏ sᴛᴀʀᴛ sᴛʀᴇᴀᴍɪɴɢ.\n\n┣⪼ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟsᴏ sᴜᴘᴘᴏʀᴛ ɪɴ ᴄʜᴀɴɴᴇʟ. ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴀs ᴀᴅᴍɪɴ ᴛᴏ ɢᴇᴛ ʀᴇᴀʟᴛɪᴍᴇ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ ғᴏʀ ᴇᴠᴇʀʏ ғɪʟᴇs/ᴠɪᴅᴇᴏs ᴘᴏsʏ../\n\n┣⪼ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ :- /about\n\n\nᴘʟᴇᴀsᴇ sʜᴀʀᴇ ᴀɴᴅ sᴜʙsᴄʀɪʙᴇ**", 
   
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ MAX BYPASS ZONE ⚡", url="https://t.me/Max_Bypass_V71"), InlineKeyboardButton("⚡ ML SUPPORT ⚡", url="https://t.me/Max_Leech_Zone_Update")],
-                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 MOVIE REQUEST GRUOP 💠", url="https://t.me/+IXXBlPCAiww5NDU1")],
-                    [InlineKeyboardButton("💡 𝙼𝙰𝚇 𝙻𝙴𝙴𝙲𝙷 𝚉𝙾𝙽𝙴 💡", url="https://t.me/+I1Kl5CsMpvQ5NmE1")]
+                    [InlineKeyboardButton("⚡ 𝐌𝐚𝐱-𝐁𝐲𝐩𝐚𝐬𝐬-𝐙𝐨𝐧𝐞 ⚡", url="https://t.me/Max_Bypass_V71"), InlineKeyboardButton("⚡ 𝐌𝐀𝐗-𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⚡", url="https://t.me/Max_Leech_Zone_Update")],
+                    [InlineKeyboardButton("💯 𝐎𝐖𝐍𝐄𝐑 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 𝐌𝐨𝐯𝐢𝐞-𝐑𝐞𝐪𝐮𝐞𝐬𝐭-𝐆𝐫𝐨𝐮𝐩 💠", url="https://t.me/+IXXBlPCAiww5NDU1")],
+                    [InlineKeyboardButton("💡 𝐌𝐚𝐱-𝐋𝐞𝐞𝐜𝐡-𝐙𝐨𝐧𝐞 💡", url="https://t.me/+I1Kl5CsMpvQ5NmE1")]
                 ]
             ),
             
@@ -225,27 +225,27 @@ async def about_handler(bot, message):
                 disable_web_page_preview=True)
             return
     await message.reply_photo(
-            photo="https://telegra.ph/file/0abad3d7c58a4d1ecd155.jpg",
+            photo="https://telegra.ph/file/0abad3d7c58a4d1ecd155.jpg https://graph.org/file/b0e5deb448b575f1be028.jpg https://graph.org/file/9d979c70b3ef02b4b20d0.jpg",
             caption="""<b>🕊️sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs🕊️</b>
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
 ┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : ғɪʟᴇ ᴛᴏ ʟɪɴᴋ
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/Max_Leech_Zone_Update'>MAX CHANNEL</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+I1Kl5CsMpvQ5NmE1'>MAX LEECH ZONE</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/Max_Leech_Zone_Update'>𝐌𝐀𝐗-𝐒𝐔𝐏𝐏𝐎𝐑𝐓</a></b>
+┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+I1Kl5CsMpvQ5NmE1'>𝐌𝐚𝐱-𝐋𝐞𝐞𝐜𝐡-𝐙𝐨𝐧𝐞</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
-┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/+IXXBlPCAiww5NDU1'>MOVIE REQUEST ZONE</a></b>
+┣⪼<b>ʏᴏᴜᴛᴜʙᴇ : <a href='https://t.me/+IXXBlPCAiww5NDU1'>𝐌𝐨𝐯𝐢𝐞-𝐑𝐞𝐪𝐮𝐞𝐬𝐭-𝐆𝐫𝐨𝐮𝐩</a></b>
 ┃
 <b>╰━━━━━━━〔ᴘʟᴇᴀsʀ sᴜᴘᴘᴏʀᴛ〕</b>""",
   
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ MAX BYPSSS ZONE ⚡", url="https://t.me/Max_Bypass_V71"), InlineKeyboardButton("⚡ ML SUPPORT ⚡", url="https://t.me/Max_Leech_Zone_Update")],
-                    [InlineKeyboardButton("💯 OWNER 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 MOVIE REQUEST GRUOP 💠", url="https://t.me/+IXXBlPCAiww5NDU1")],
-                    [InlineKeyboardButton("💡 𝙼𝙰𝚇 𝙻𝙴𝙴𝙲𝙷 𝚉𝙾𝙽𝙴 💡", url="https://t.me/+I1Kl5CsMpvQ5NmE1")]
+                    [InlineKeyboardButton("⚡ 𝐌𝐚𝐱-𝐁𝐲𝐩𝐚𝐬𝐬-𝐙𝐨𝐧𝐞 ⚡", url="https://t.me/Max_Bypass_V71"), InlineKeyboardButton("⚡ 𝐌𝐀𝐗-𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⚡", url="https://t.me/Max_Leech_Zone_Update")],
+                    [InlineKeyboardButton("💯 𝐎𝐖𝐍𝐄𝐑 💯", url="https://t.me/PROFE07XH"), InlineKeyboardButton("💠 𝐌𝐨𝐯𝐢𝐞-𝐑𝐞𝐪𝐮𝐞𝐬𝐭-𝐆𝐫𝐨𝐮𝐩 💠", url="https://t.me/+IXXBlPCAiww5NDU1")],
+                    [InlineKeyboardButton("💡 𝐌𝐚𝐱-𝐋𝐞𝐞𝐜𝐡-𝐙𝐨𝐧𝐞 💡", url="https://t.me/+I1Kl5CsMpvQ5NmE1")]
                 ]
             ),
             
