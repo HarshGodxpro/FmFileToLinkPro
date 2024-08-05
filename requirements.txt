@@ -1,6 +1,6 @@
 pyrogram<=2.0.106
-tgcrypto<=1.2.3
-aiohttp<=3.8.1
+tgcrypto<=1.2.5
+aiohttp<=3.10.1
 python-dotenv<=0.20.0
 motor
 aiofiles
@@ -9,4 +9,4 @@ apscheduler
 requests
 psutil
 pyromod==1.5
-pyproject-toml
+pyproject-toml 0.0.10
